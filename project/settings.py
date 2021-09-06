@@ -26,7 +26,7 @@ SECRET_KEY = '+!@9rt4mz0(0hpzpo_3g1i^&7el$@-@vt8-a$vadjsbb_-9-!!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django-channels-practice.herokuapp.com','127.0.0.1','localhost']
 
 
 # Application definition
